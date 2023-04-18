@@ -1,1 +1,16 @@
-# Formul-rio
+# Formulário
+
+Temos aqui um simples formulário ultilizando a tecnologia html auxiliada do Bootstrap.
+No html,foi baseado em um container principal e em linhas e colunas:
+
+![image](https://user-images.githubusercontent.com/111819715/232756942-432ef101-99f4-4014-a6d9-58b4c5ab65d7.png)
+
+![image](https://user-images.githubusercontent.com/111819715/232760381-eb92b89a-c616-45aa-9ffd-e300031a0e8d.png)
+
+No formulário possui campos como nome, nome Mãe, nome Pai, endenreço, entre outros:
+
+![image](https://user-images.githubusercontent.com/111819715/232760673-3e25ad13-e8c1-463d-9768-4c97a490884c.png)
+
+Após preencher todos os campos terá um botão para enviar os dados.
+
+Henry.
